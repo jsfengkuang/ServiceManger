@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://192.168.100.203/IOS/ServiceManger.ipa</string>
+                    <string>https://github.com/jsfengkuang/ServiceManger/raw/master/ServiceManger.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://https://192.168.100.203/IOS/5757.png</string>
+                    <string>https://github.com/jsfengkuang/ServiceManger/raw/master/5757.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://192.168.100.203/IOS/512512.png</string>
+                    <string>https://github.com/jsfengkuang/ServiceManger/raw/master/512512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
